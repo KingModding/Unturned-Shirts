@@ -5,7 +5,7 @@
 
 2- Import <b>KingModding.unitypackage</b> to your proyect ----->  https://gyazo.com/b712830292176eeafd3fe02011ee3e65
 
-3- Replace the <b> Shirt.png </ b> file with your Texture -----> https://gyazo.com/6b55c63b257d410ce40613c2183d7696
+3- Replace the <b> Shirt.png </b> file with your Texture -----> https://gyazo.com/6b55c63b257d410ce40613c2183d7696
 
 4- Move the file <b>Item</b> to where is  Main Camera and this thinks------> https://gyazo.com/905bbe40ea3e9e0a83e2228bbd749cd0
 
