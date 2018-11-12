@@ -13,7 +13,7 @@
 ·Created By: <b>@SPYREX#9085</b> & <b>@educatalan02#1236</b>
 
 
-<h1><strong>-------<ins>King Modders</ins>-------</strong></h1>
+<h1><strong>-------<ins>King Developers</ins>-------</strong></h1>
 
  @Markitos#9085
  @iSanchito96#2620
