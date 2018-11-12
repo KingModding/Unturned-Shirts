@@ -4,6 +4,10 @@
 
 · Server Managers: <b>@SPYREX#1047</b> & <b>@TheZiNext#7456</b>
 
+· Moderators: <b>@[SESP]TheReal#5400#1047</b> , <b>@gadoneitor15#5486</b> , <b>@Jk Rojo#9704</b> & <b>@DIE_(= 🐻#4771</b>
+
+· Support: <b>@MeFaltaUnVerano#5995</b>
+
 <h1><strong>-------<ins>Unturned Shirts</ins>-------</strong></h1>
 
 ·Created By: <b>@SPYREX#9085</b> & <b>@educatalan02#1236</b>
