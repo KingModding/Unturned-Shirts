@@ -4,7 +4,7 @@
 
 · Server Managers: <b>@SPYREX#1047</b> & <b>@TheZiNext#7456</b>
 
-· Moderators: <b>@[SESP]TheReal#5400#1047</b> , <b>@gadoneitor15#5486</b> , <b>@Jk Rojo#9704</b> & <b>@DIE_(= 🐻#4771</b>
+· Moderators: <b>@DIE_(= 🐻#4771</b> , <b>@gadoneitor15#5486</b> , <b>@Jk Rojo#9704</b> &  <b>@[SESP]TheReal#5400#1047</b>
 
 · Support: <b>@MeFaltaUnVerano#5995</b>
 
