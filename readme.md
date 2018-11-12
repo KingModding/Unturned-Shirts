@@ -11,12 +11,12 @@
 
 <h1><strong>-------<ins>King Modders</ins>-------</strong></h1>
 
-· @Markitos#9085
-· @iSanchito96#2620
-· @gadoneitor15#5486
-· @educatalan02#1236
-· @DIE_(= 🐻#4771
-· @CrashLogger#4283
-· @[SESP]TheReal#5400
-· @SPYREX#1047
-· @TheZiNext#7456
+ @Markitos#9085
+ @iSanchito96#2620
+ @gadoneitor15#5486
+ @educatalan02#1236
+ @DIE_(= 🐻#4771
+ @CrashLogger#4283
+ @[SESP]TheReal#5400
+ @SPYREX#1047
+ @TheZiNext#7456
